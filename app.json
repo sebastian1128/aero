@@ -10,7 +10,7 @@
         "unblocker",
         "unblock"
     ],
-    "repository": "https://github.com/titaniumnetwork-dev/aero",
+    "repository": "https://github.com/sebastian1128/aero",
     "image": "heroku/go:1.17",
     "buildpacks": [
         {
